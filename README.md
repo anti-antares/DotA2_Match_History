@@ -8,6 +8,11 @@ http://blog.dota2.com/?l=english
 
 https://en.wikipedia.org/wiki/Dota_2
 
+
+***Project Structure***
+
+<img src="Android1.png" width="300">
+
 ***Example UI***
 
 <img src="Screenshot1.png" width="150">
