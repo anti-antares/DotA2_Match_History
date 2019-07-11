@@ -13,6 +13,8 @@ https://en.wikipedia.org/wiki/Dota_2
 
 <img src="Android1.png" width="800">
 
+Web service part:https://github.com/anti-antares/DotA2_Web_Service
+
 ***Example UI***
 
 <img src="Screenshot1.png" width="150">
