@@ -11,7 +11,7 @@ https://en.wikipedia.org/wiki/Dota_2
 
 ***Project Structure***
 
-<img src="Android1.png" width="300">
+<img src="Android1.png" width="800">
 
 ***Example UI***
 
