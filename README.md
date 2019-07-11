@@ -10,6 +10,6 @@ https://en.wikipedia.org/wiki/Dota_2
 
 ***Example UI***
 
-![Screenshot](Screenshot1.png)
-![Screenshot](Screenshot2.png)
+![Screenshot](Screenshot1.png | width=500)
+![Screenshot](Screenshot2.png| width=500)
 
