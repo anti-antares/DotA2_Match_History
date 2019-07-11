@@ -8,6 +8,6 @@ http://blog.dota2.com/?l=english
 
 https://en.wikipedia.org/wiki/Dota_2
 
-***Sample UI***
+***Example UI***
 
 
